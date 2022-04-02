@@ -40,9 +40,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![](http://g.recordit.co/8VIY59bT41.gif)
-![](http://g.recordit.co/PMUNhd2y45.gif)
-![](http://g.recordit.co/S1Eraa01uE.gif)
+![1](http://g.recordit.co/8VIY59bT41.gif)
+![2](http://g.recordit.co/PMUNhd2y45.gif)
+
+[Third gif](http://g.recordit.co/S1Eraa01uE.gif)
+
 [Long gif converted into a video](https://www.loom.com/share/2e26b63fa9084d8495199dbd7a2c9d79?sharedAppSource=personal_library)
 
 
